@@ -91,10 +91,10 @@ Método de carga del formulario, que se ejecuta cuando el formulario se carga po
 ## Imágenes de la Aplicación
 
 ### Pantalla Inicial
-![Pantalla Inicial]([https://github.com/Marlon-Trujillo-Jaramillo/Breakout-Game-/blob/master/Captura%20de%20pantalla%202024-05-20%20121419.png])
+![Pantalla Inicial](https://github.com/Marlon-Trujillo-Jaramillo/Breakout-Game-/blob/master/Captura%20de%20pantalla%202024-05-20%20121419.png)
 
 ### Durante el Juego
-![Durante el Juego]([path/to/ingame_screen.png](https://github.com/Marlon-Trujillo-Jaramillo/Breakout-Game-/blob/master/Captura%20de%20pantalla%202024-05-20%20121441.png))
+![Durante el Juego](https://github.com/Marlon-Trujillo-Jaramillo/Breakout-Game-/blob/master/Captura%20de%20pantalla%202024-05-20%20121441.png)
 
 ### Juego Terminado
-![Juego Terminado]([path/to/gameover_screen.png](https://github.com/Marlon-Trujillo-Jaramillo/Breakout-Game-/blob/master/Captura%20de%20pantalla%202024-05-20%20121530.png))
+![Juego Terminado](https://github.com/Marlon-Trujillo-Jaramillo/Breakout-Game-/blob/master/Captura%20de%20pantalla%202024-05-20%20121530.png)
